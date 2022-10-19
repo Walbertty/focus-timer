@@ -1,6 +1,6 @@
 # focus-timer
 
-![preview](./.Github/focus.png)
+![preview](./image/focus.png)
 
 Project built by me to train and also to help me with my focus.
 
